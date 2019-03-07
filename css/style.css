@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo|Philosopher");
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  font-weight: bold;
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Philosopher", sans-serif;
+}
+.crystal-image {
+  width: 25%;
+  height: 25%;
+}
+
+section {
+  font-family: "Heebo", sans-serif;
+}
+
+.target {
+  padding: 20px;
+  margin: auto;
+  width: 33%;
+  float: left;
+}
+
+.guess {
+  padding: 20px;
+  margin: auto;
+  width: 33%;
+  float: left;
+}
+
+.score {
+  padding: 20px;
+  margin: auto;
+  width: 33%;
+  float: left;
+}
+
+.win-lose {
+  text-align: center;
+  font-family: "Heebo", sans-serif;
+}
